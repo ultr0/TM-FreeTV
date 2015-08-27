@@ -1,0 +1,1746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i-craft v1.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-22 08:42:44+0000\n"
+"Last-Translator: root <test@test.test>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ i-craft
+msgid "Not found"
+msgstr "Не найдено"
+
+#: 404.php:20
+#@ i-craft
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Это несколько не то, что вы хотели?"
+
+#: 404.php:21
+#@ i-craft
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Это выглядит так, как будто ничего не было в этом месте. Попробуйте воспользоваться поиском."
+
+#: author-bio.php:25
+#, php-format
+#@ i-craft
+msgid "About %s"
+msgstr "Про %s"
+
+#: author-bio.php:29
+#, php-format
+#@ i-craft
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Просмотреть все сообщения %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: author.php:30
+#, php-format
+#@ i-craft
+msgid "All posts by %s"
+msgstr "Все сообщения от %s"
+
+#: comments.php:24
+#, php-format
+#@ i-craft
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Одна мысль о &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мысли о &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мысли о &ldquo;%2$s&rdquo;"
+
+#: comments.php:44
+#@ i-craft
+msgid "Comment navigation"
+msgstr "Навигация в комментариях"
+
+#: comments.php:45
+#@ i-craft
+msgid "&larr; Older Comments"
+msgstr "&larr; старые комментарии"
+
+#: comments.php:46
+#@ i-craft
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:51
+#@ i-craft
+msgid "Comments are closed."
+msgstr "Комментирование закрыто"
+
+#: content-aside.php:12
+#: content-audio.php:23
+#: content-gallery.php:23
+#: content-image.php:22
+#: content-link.php:23
+#: content-quote.php:12
+#: content-status.php:12
+#: content-video.php:22
+#: content.php:71
+#: single.php:42
+#@ i-craft
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение  <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:13
+#: content-audio.php:24
+#: content-chat.php:23
+#: content-gallery.php:24
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:13
+#: content-status.php:13
+#: content-video.php:23
+#: content.php:78
+#: image.php:69
+#: page-sidebar.php:33
+#: page.php:40
+#: single-portfolio.php:48
+#: single.php:43
+#@ i-craft
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-aside.php:19
+#: content-aside.php:27
+#: content-audio.php:30
+#: content-chat.php:28
+#: content-gallery.php:38
+#: content-image.php:34
+#: content-link.php:18
+#: content-quote.php:24
+#: content-status.php:18
+#: content-video.php:34
+#: content.php:57
+#: image.php:43
+#: page-sidebar.php:37
+#: page.php:44
+#: single-portfolio.php:52
+#: single.php:37
+#@ i-craft
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-gallery.php:35
+#: content-image.php:31
+#: content-quote.php:21
+#: content-video.php:31
+#: content.php:85
+#@ i-craft
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: content-gallery.php:35
+#: content-image.php:31
+#: content-quote.php:21
+#: content-video.php:31
+#: content.php:85
+#@ i-craft
+msgid "One comment so far"
+msgstr "Пока один комментарий"
+
+#: content-gallery.php:35
+#: content-image.php:31
+#: content-quote.php:21
+#: content-video.php:31
+#: content.php:85
+#@ i-craft
+msgid "View all % comments"
+msgstr "Просмотр всех % комментариев"
+
+#: content-none.php:11
+#@ i-craft
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:17
+#, php-format
+#@ i-craft
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать своё первое сообщение?   <a href=\"%1$s\">Начинайте здесь</a>."
+
+#: content-none.php:21
+#@ i-craft
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Извините, но ничего не соответствует условиям поиска . Пожалуйста, попробуйте еще раз с разных ключевых слов."
+
+#: content-none.php:26
+#@ i-craft
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: footer.php:21
+#@ i-craft
+msgid "Copyright &copy;"
+msgstr "Все права защищены &copy;"
+
+#: footer.php:24
+#@ i-craft
+msgid "http://wordpress.org/"
+msgstr "http://tmedia.pro/"
+
+#: footer.php:24
+#@ i-craft
+msgid "Semantic Personal Publishing Platform"
+msgstr "Семантическая персональная платформа для публикаций"
+
+#: footer.php:25
+#, php-format
+#@ i-craft
+msgid "Powered by %s"
+msgstr "Сделано с помощью %s"
+
+#: footer.php:27
+#@ i-craft
+msgid ", Designed and Developed by"
+msgstr ", Разработано и создано "
+
+#: footer.php:28
+#@ i-craft
+msgid "http://www.templatesnext.org/"
+msgstr "http://tmedia.pro/ "
+
+#: footer.php:29
+#@ i-craft
+msgid "templatesnext"
+msgstr "«Техно Медиа»"
+
+#: functions.php:90
+#@ i-craft
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+#: functions.php:132
+#@ i-craft
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "на"
+
+#: functions.php:138
+#@ i-craft
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "на"
+
+#: functions.php:293
+#, php-format
+#@ i-craft
+msgid "Page %s"
+msgstr "Страница %s "
+
+#: functions.php:308
+#@ i-craft
+msgid "Main Widget Area"
+msgstr "Главное  Виджет пространство"
+
+#: functions.php:310
+#@ i-craft
+msgid "Appears in the footer section of the site."
+msgstr "Появляется в разделе верхнего колонтитула сайта."
+
+#: functions.php:318
+#@ i-craft
+msgid "Main Sidebar Widget Area"
+msgstr "Главная область бокового виджета"
+
+#: functions.php:320
+#@ i-craft
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Появляется на записях и страницах в боковой панели."
+
+#: functions.php:354
+#@ i-craft
+msgid "Previous"
+msgstr "Предыдущее"
+
+#: functions.php:355
+#@ i-craft
+msgid "Next"
+msgstr "Следующее"
+
+#: functions.php:360
+#@ i-craft
+msgid "Posts navigation"
+msgstr "Навигация по сообщениям"
+
+#: functions.php:390
+#@ i-craft
+msgid "Post navigation"
+msgstr "Навигация по сообщениям"
+
+#: functions.php:393
+#, php-format
+#@ i-craft
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: functions.php:394
+#, php-format
+#@ i-craft
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:434
+#@ i-craft
+msgid "Sticky"
+msgstr "Заметка"
+
+#: functions.php:440
+#: functions.php:446
+#@ i-craft
+msgid ", "
+msgstr ""
+
+#: functions.php:455
+#, php-format
+#@ i-craft
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи от %s "
+
+#: functions.php:475
+#, php-format
+#@ i-craft
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s на %2$s"
+
+#: functions.php:481
+#, php-format
+#@ i-craft
+msgid "Permalink to %s"
+msgstr "Прямая ссылка %s"
+
+#: functions.php:688
+#@ i-craft
+msgid "Read More..."
+msgstr "Читать больше..."
+
+#: functions.php:761
+#: inc/class-tgm-plugin-activation.php:196
+#@ i-craft
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr "Установите требуемые подключаемые модули"
+
+#: functions.php:762
+#: inc/class-tgm-plugin-activation.php:197
+#@ i-craft
+#@ tgmpa
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: functions.php:763
+#: inc/class-tgm-plugin-activation.php:198
+#, php-format
+#@ i-craft
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: functions.php:764
+#@ i-craft
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#: functions.php:765
+#: inc/class-tgm-plugin-activation.php:200
+#, php-format
+#@ i-craft
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: functions.php:766
+#: inc/class-tgm-plugin-activation.php:201
+#, php-format
+#@ i-craft
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#: functions.php:767
+#: inc/class-tgm-plugin-activation.php:202
+#, php-format
+#@ i-craft
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Извините, но вы не имеете правильные разрешения для установки плагина  %s . Для помощи в получении плагина , обратитесь к администратору этого сайта."
+msgstr[1] "Извините, но вы не имеете правильные разрешения для установки плагинов  %s . Для помощи в получении плагинов , обратитесь к администратору этого сайта."
+msgstr[2] "Извините, но вы не имеете правильные разрешения для установки плагинов  %s . Для помощи в получении плагинов , обратитесь к администратору этого сайта."
+
+#: functions.php:768
+#: inc/class-tgm-plugin-activation.php:203
+#, php-format
+#@ i-craft
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие обязательные плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие обязательные плагины в настоящее время неактивны: %1$s."
+
+#: functions.php:769
+#: inc/class-tgm-plugin-activation.php:204
+#, php-format
+#@ i-craft
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый  плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые  плагины в настоящее время неактивны: %1$s."
+
+#: functions.php:770
+#: inc/class-tgm-plugin-activation.php:205
+#, php-format
+#@ i-craft
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Извините, но вы не имеете правильные разрешения для активации плагина  %s . Для помощи в получении плагина , обратитесь к администратору этого сайта."
+msgstr[1] "Извините, но вы не имеете правильные разрешения для активации плагинов  %s . Для помощи в получении плагинов , обратитесь к администратору этого сайта."
+msgstr[2] "Извините, но вы не имеете правильные разрешения для активации плагинов  %s . Для помощи в получении плагинов , обратитесь к администратору этого сайта."
+
+#: functions.php:771
+#: inc/class-tgm-plugin-activation.php:206
+#, php-format
+#@ i-craft
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин должен быть обновлен до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[1] "Эти плагины должны быть обновлены до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[2] "Эти плагины должны быть обновлены до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+
+#: functions.php:772
+#: inc/class-tgm-plugin-activation.php:207
+#, php-format
+#@ i-craft
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Извините, но вы не имеете правильные разрешения для обновления плагина  %s . Для помощи в получении плагина , обратитесь к администратору этого сайта."
+msgstr[1] "Извините, но вы не имеете правильные разрешения для обновления плагинов  %s . Для помощи в получении плагина , обратитесь к администратору этого сайта."
+msgstr[2] "Извините, но вы не имеете правильные разрешения для обновления плагинов  %s . Для помощи в получении плагина , обратитесь к администратору этого сайта."
+
+#: functions.php:773
+#: inc/class-tgm-plugin-activation.php:208
+#@ i-craft
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: functions.php:774
+#: inc/class-tgm-plugin-activation.php:209
+#@ i-craft
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Активировать плагин"
+msgstr[1] "Активировать плагины"
+msgstr[2] "Активировать плагины"
+
+#: functions.php:775
+#: inc/class-tgm-plugin-activation.php:210
+#@ i-craft
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в установщик требуемых подключаемых модулей"
+
+#: functions.php:776
+#: inc/class-tgm-plugin-activation.php:212
+#: inc/class-tgm-plugin-activation.php:1951
+#@ i-craft
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирована."
+
+#: functions.php:777
+#, php-format
+#@ i-craft
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Установлены все плагины и активировать успешно . %s"
+
+#: header.php:72
+#@ i-craft
+msgid "Call us : "
+msgstr "Звоните нам:"
+
+#: header.php:81
+#@ i-craft
+msgid "Mail us : "
+msgstr "Пишите нам:"
+
+#: header.php:107
+#@ i-craft
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:108
+#@ i-craft
+msgid "Skip to content"
+msgstr "Скрыть содержимое"
+
+#: header.php:128
+#@ i-craft
+msgid "Cart"
+msgstr "Корзина"
+
+#: header.php:220
+#, php-format
+#@ i-craft
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#: header.php:222
+#, php-format
+#@ i-craft
+msgid "Monthly Archives: %s"
+msgstr "Ежемесячные архивы: %s"
+
+#: header.php:222
+#@ i-craft
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "по Г"
+
+#: header.php:224
+#, php-format
+#@ i-craft
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: header.php:224
+#@ i-craft
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Г"
+
+#: header.php:226
+#, php-format
+#@ i-craft
+msgid "Category Archives: %s"
+msgstr "Разделы архивов: %s"
+
+#: header.php:228
+#@ i-craft
+msgid "Archives"
+msgstr "Архивы"
+
+#: header.php:234
+#, php-format
+#@ i-craft
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: image.php:21
+#, php-format
+#@ i-craft
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">Опубликовано в <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> в <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+
+#: image.php:37
+#@ i-craft
+msgid "Link to full-size image"
+msgstr "Ссылка на полноразмерное изображение"
+
+#: image.php:38
+#@ i-craft
+msgid "Full resolution"
+msgstr "В более высоком разрешении"
+
+#: image.php:50
+#@ i-craft
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span>Предыдущее"
+
+#: image.php:51
+#@ i-craft
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующее <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/class-tgm-plugin-activation.php:199
+#@ tgmpa
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: inc/class-tgm-plugin-activation.php:211
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:214
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Установлены все плагины и активированы успешно.  %1$s"
+
+#: inc/class-tgm-plugin-activation.php:215
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: inc/class-tgm-plugin-activation.php:544
+#: inc/class-tgm-plugin-activation.php:2168
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr "Вернуться к приборной панели"
+
+#: inc/class-tgm-plugin-activation.php:1174
+#@ tgmpa
+msgid "Private Repository"
+msgstr "Личное хранилище"
+
+#: inc/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+#: inc/class-tgm-plugin-activation.php:1182
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr "WP хранилище"
+
+#: inc/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Required"
+msgstr "Требуется"
+
+#: inc/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: inc/class-tgm-plugin-activation.php:1188
+#@ tgmpa
+msgid "Not Installed"
+msgstr "Не установленно"
+
+#: inc/class-tgm-plugin-activation.php:1190
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr "Установлено, но не активировано"
+
+#: inc/class-tgm-plugin-activation.php:1290
+#: inc/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr "Установить"
+
+#: inc/class-tgm-plugin-activation.php:1312
+#: inc/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Нет плагинов для того чтобы установить или активировать .<a href=\"%1$s\" title=\"Return to the Dashboard\">Вернуться к приборной панели</a>"
+
+#: inc/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr "Источник"
+
+#: inc/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr "Тип"
+
+#: inc/class-tgm-plugin-activation.php:1380
+#@ tgmpa
+msgid "Status"
+msgstr "Статус"
+
+#: inc/class-tgm-plugin-activation.php:1508
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет плагинов не доступны для установки в данный момент."
+
+#: inc/class-tgm-plugin-activation.php:1616
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr "Нет плагинов не доступны для активации в это время."
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/class-tgm-plugin-activation.php:1638
+#: inc/class-tgm-plugin-activation.php:213
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин успешно активирован:"
+msgstr[1] "Эти плагины успешно активированы:"
+msgstr[2] "Эти плагины успешно активированы:"
+
+#: inc/class-tgm-plugin-activation.php:1934
+#@ tgmpa
+msgid "Install package not available."
+msgstr "Устанавливаемый пакет недоступен ."
+
+#: inc/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Скачать и  установить пакет из <span class=\"code\">%s</span>&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1936
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1937
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1938
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr "Плагин не удалось установить."
+
+#: inc/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен ."
+
+#: inc/class-tgm-plugin-activation.php:1950
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr "Плагин активировать не удалось."
+
+#: inc/class-tgm-plugin-activation.php:2064
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации пуска. Этот процесс может занять некоторое время на некоторых хозяев, поэтому, пожалуйста, будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен ​​и активирован успешно ."
+
+#: inc/class-tgm-plugin-activation.php:2065
+#: inc/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#: inc/class-tgm-plugin-activation.php:2065
+#: inc/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#: inc/class-tgm-plugin-activation.php:2066
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr "Все установок и активаций были завершены."
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагинов %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начинается. Этот процесс может занять некоторое время на некоторых хозяев, поэтому, пожалуйста, будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалось."
+
+#: inc/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен ."
+
+#: inc/class-tgm-plugin-activation.php:2075
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#: inc/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/includes/class-options-framework-admin.php:91
+#: inc/includes/class-options-framework-admin.php:92
+#@ theme-textdomain
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: inc/includes/class-options-framework-admin.php:190
+#: inc/includes/class-options-framework-admin.php:191
+#@ textdomain
+msgid "http://facebook.com/templatesnext/"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:191
+#@ textdomain
+msgid "http://wordpress.org/support/view/theme-reviews/i-craft"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:202
+#@ textdomain
+msgid "http://templatesnext.org/icraft/"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:203
+#@ textdomain
+msgid "http://templatesnext.org/icraft/docs"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:237
+#@ theme-textdomain
+msgid "Save Options"
+msgstr "Сохранить параметры"
+
+#: inc/includes/class-options-framework-admin.php:238
+#@ theme-textdomain
+msgid "Restore Defaults"
+msgstr "Восстановить по умолчанию"
+
+#: inc/includes/class-options-framework-admin.php:238
+#@ theme-textdomain
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите ОК для сброса. Все настройки темы будут потеряны!"
+
+#: inc/includes/class-options-framework-admin.php:269
+#@ theme-textdomain
+msgid "Default options restored."
+msgstr "Параметры по умолчанию восстановлены."
+
+#: inc/includes/class-options-framework-admin.php:323
+#@ theme-textdomain
+msgid "Options saved."
+msgstr "Параметры сохранены."
+
+#: inc/includes/class-options-media-uploader.php:62
+#@ theme-textdomain
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: inc/includes/class-options-media-uploader.php:65
+#: inc/includes/class-options-media-uploader.php:118
+#@ theme-textdomain
+msgid "Upload"
+msgstr "Загрузить"
+
+#: inc/includes/class-options-media-uploader.php:67
+#: inc/includes/class-options-media-uploader.php:119
+#: inc/meta-box/inc/fields/file-input.php:42
+#@ theme-textdomain
+#@ meta-box
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/includes/class-options-media-uploader.php:70
+#@ theme-textdomain
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите свою систему управления содержимым для полной меда поддержки."
+
+#: inc/includes/class-options-media-uploader.php:94
+#@ theme-textdomain
+msgid "View File"
+msgstr "Просмотреть файл"
+
+#: inc/includes/class-options-sanitization.php:316
+#@ theme-textdomain
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: inc/includes/class-options-sanitization.php:317
+#@ theme-textdomain
+msgid "Repeat Horizontally"
+msgstr "Повтор по горизонтали"
+
+#: inc/includes/class-options-sanitization.php:318
+#@ theme-textdomain
+msgid "Repeat Vertically"
+msgstr "Повтор по вертикали"
+
+#: inc/includes/class-options-sanitization.php:319
+#@ theme-textdomain
+msgid "Repeat All"
+msgstr "Повторять полностью"
+
+#: inc/includes/class-options-sanitization.php:331
+#@ theme-textdomain
+msgid "Top Left"
+msgstr "Верх слева"
+
+#: inc/includes/class-options-sanitization.php:332
+#@ theme-textdomain
+msgid "Top Center"
+msgstr "Верх по центру"
+
+#: inc/includes/class-options-sanitization.php:333
+#@ theme-textdomain
+msgid "Top Right"
+msgstr "Верх справа"
+
+#: inc/includes/class-options-sanitization.php:334
+#@ theme-textdomain
+msgid "Middle Left"
+msgstr "Середина слева"
+
+#: inc/includes/class-options-sanitization.php:335
+#@ theme-textdomain
+msgid "Middle Center"
+msgstr "Середина по центру"
+
+#: inc/includes/class-options-sanitization.php:336
+#@ theme-textdomain
+msgid "Middle Right"
+msgstr "Середина справа"
+
+#: inc/includes/class-options-sanitization.php:337
+#@ theme-textdomain
+msgid "Bottom Left"
+msgstr "Низ слева"
+
+#: inc/includes/class-options-sanitization.php:338
+#@ theme-textdomain
+msgid "Bottom Center"
+msgstr "Низ по центру"
+
+#: inc/includes/class-options-sanitization.php:339
+#@ theme-textdomain
+msgid "Bottom Right"
+msgstr "Низ справа"
+
+#: inc/includes/class-options-sanitization.php:351
+#@ theme-textdomain
+msgid "Scroll Normally"
+msgstr "Прокручивать"
+
+#: inc/includes/class-options-sanitization.php:352
+#@ theme-textdomain
+msgid "Fixed in Place"
+msgstr "Зафиксировать"
+
+#: inc/includes/class-options-sanitization.php:424
+#@ theme-textdomain
+msgid "Normal"
+msgstr "Нормальный"
+
+#: inc/includes/class-options-sanitization.php:425
+#@ theme-textdomain
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/includes/class-options-sanitization.php:426
+#@ theme-textdomain
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/includes/class-options-sanitization.php:427
+#@ theme-textdomain
+msgid "Bold Italic"
+msgstr "Жирный курсив"
+
+#: inc/meta-box/inc/common.php:53
+#@ meta-box
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/meta-box/inc/common.php:54
+#@ meta-box
+msgid "Extensions"
+msgstr "Дополнения"
+
+#: inc/meta-box/inc/field.php:225
+#@ meta-box
+msgid "+"
+msgstr ""
+
+#: inc/meta-box/inc/field.php:235
+#@ meta-box
+msgid "&#8211;"
+msgstr ""
+
+#: inc/meta-box/inc/fields/autocomplete.php:18
+#: inc/meta-box/inc/fields/autocomplete.php:72
+#@ meta-box
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/meta-box/inc/fields/button.php:35
+#@ meta-box
+msgid "Click me"
+msgstr "Нажми"
+
+#: inc/meta-box/inc/fields/file-advanced.php:23
+#@ meta-box
+msgid "Select Files"
+msgstr "Выбрать файлы"
+
+#: inc/meta-box/inc/fields/file-advanced.php:66
+#@ meta-box
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr "Выбрать файлы для загрузки"
+
+#: inc/meta-box/inc/fields/file-advanced.php:103
+#: inc/meta-box/inc/fields/file.php:168
+#@ meta-box
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/meta-box/inc/fields/file-advanced.php:104
+#: inc/meta-box/inc/fields/file.php:169
+#@ meta-box
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/meta-box/inc/fields/file-input.php:17
+#@ meta-box
+msgid "Select File"
+msgstr "Выбрать файл"
+
+#: inc/meta-box/inc/fields/file-input.php:40
+#@ meta-box
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/meta-box/inc/fields/file.php:19
+#, php-format
+#@ meta-box
+msgid "You may only upload maximum %d file"
+msgstr "Вы можете загрузить максимум %d файлов"
+
+#: inc/meta-box/inc/fields/file.php:20
+#, php-format
+#@ meta-box
+msgid "You may only upload maximum %d files"
+msgstr "Вы можете загрузить максимум %d файлов"
+
+#: inc/meta-box/inc/fields/file.php:98
+#@ meta-box
+msgid "Error: Cannot delete file"
+msgstr "Ошибка: Невозможно удалить файл"
+
+#: inc/meta-box/inc/fields/file.php:111
+#@ meta-box
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Загрузить файлы"
+
+#: inc/meta-box/inc/fields/file.php:112
+#@ meta-box
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Добавить новые файлы"
+
+#: inc/meta-box/inc/fields/image-advanced.php:23
+#@ meta-box
+msgid "Select Images"
+msgstr "Выбрать изображения"
+
+#: inc/meta-box/inc/fields/image-advanced.php:71
+#@ meta-box
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr "Выберите или загрузите изображения"
+
+#: inc/meta-box/inc/fields/image-advanced.php:108
+#: inc/meta-box/inc/fields/image.php:136
+#@ meta-box
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/meta-box/inc/fields/image-advanced.php:109
+#: inc/meta-box/inc/fields/image.php:137
+#@ meta-box
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/meta-box/inc/fields/image.php:70
+#: inc/meta-box/inc/fields/thickbox-image.php:34
+#@ meta-box
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Загрузить изображения"
+
+#: inc/meta-box/inc/fields/image.php:71
+#@ meta-box
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Добавить новое изображение"
+
+#: inc/meta-box/inc/fields/map.php:48
+#@ meta-box
+msgid "Find Address"
+msgstr "Найти адрес"
+
+#: inc/meta-box/inc/fields/oembed.php:55
+#@ meta-box
+msgid "Embed HTML not available."
+msgstr "Код HTML недоступны."
+
+#: inc/meta-box/inc/fields/oembed.php:77
+#@ meta-box
+msgid "Preview"
+msgstr "Просмотреть"
+
+#: inc/meta-box/inc/fields/plupload-image.php:105
+#@ meta-box
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Оставьте изображения здесь"
+
+#: inc/meta-box/inc/fields/plupload-image.php:106
+#@ meta-box
+msgctxt "image upload"
+msgid "or"
+msgstr "или"
+
+#: inc/meta-box/inc/fields/plupload-image.php:107
+#@ meta-box
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Выбрать файлы"
+
+#: inc/meta-box/inc/fields/plupload-image.php:183
+#@ meta-box
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Разрешить файлы изображений"
+
+#: inc/meta-box/inc/fields/post.php:52
+#@ meta-box
+msgid "Post"
+msgstr "После"
+
+#: inc/meta-box/inc/fields/post.php:66
+#: inc/meta-box/inc/fields/taxonomy.php:40
+#: inc/meta-box/inc/fields/user.php:62
+#, php-format
+#@ meta-box
+msgid "Select a %s"
+msgstr "Выбрать %s"
+
+#: inc/meta-box/inc/fields/user.php:54
+#@ meta-box
+msgid "User"
+msgstr "Пользователь"
+
+#: inc/meta-box/inc/meta-box.php:245
+#@ meta-box
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Пожалуйста, исправьте ошибки выделенные ниже и попробуйте еще ​​раз."
+
+#: inc/tnext-meta.php:40
+#@ i-craft
+msgid "Page Heading Options"
+msgstr "Настройка заголовка страницы"
+
+#: inc/tnext-meta.php:58
+#@ i-craft
+msgid "Hide Title"
+msgstr "Скрыть заголовок"
+
+#: inc/tnext-meta.php:66
+#@ i-craft
+msgid "Show Default i-craft Slider"
+msgstr "Показать слайд-шоу по умолчанию"
+
+#: inc/tnext-meta.php:77
+#@ i-craft
+msgid "Custom title"
+msgstr "Пользовательские название"
+
+#: inc/tnext-meta.php:81
+#@ i-craft
+msgid "Enter custom title for the page"
+msgstr "Введите пользовательский заголовок для страницы"
+
+#: inc/tnext-meta.php:92
+#@ i-craft
+msgid "Hide breadcrumb"
+msgstr "Скрыть пути страницы"
+
+#: inc/tnext-meta.php:102
+#@ i-craft
+msgid "Other Slider Plugin Shortcode"
+msgstr "Другие сокращения для плагина слайд-шоу "
+
+#: inc/tnext-meta.php:106
+#: options.php:455
+#@ i-craft
+msgid "Enter a 3rd party slider shortcode, ex. meta slider, smart slider 2, wow slider, etc."
+msgstr "Введите сокращения для трёхэлементного слайдшоу"
+
+#: inc/tnext-meta.php:127
+#@ ispirit
+msgid "Portfolio Meta"
+msgstr "Метаданные портфолио"
+
+#: inc/tnext-meta.php:148
+#@ nx-admin
+msgid "Portfolio Additinal Details"
+msgstr "Портфолио дополнительная информация"
+
+#: inc/tnext-meta.php:153
+#@ nx-admin
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/tnext-meta.php:155
+#@ nx-admin
+msgid "Enter a subtitle for use within the portfolio item index (optional)."
+msgstr "Введите субтитров для использования в индексного портфеля пункт (по желанию) ."
+
+#: inc/tnext-meta.php:160
+#@ nx-admin
+msgid "Portfolio Link(External)"
+msgstr "Портфолио ссылка ( внешняя)"
+
+#: inc/tnext-meta.php:162
+#@ nx-admin
+msgid "Enter an external link for the item (optional) (NOTE: INCLUDE HTTP://)."
+msgstr "Введите внешнюю ссылку для элемента (по желанию ) ( Примечание: Включите HTTP : //) ."
+
+#: options.php:56
+#@ i-craft
+msgid "One"
+msgstr "Один"
+
+#: options.php:57
+#@ i-craft
+msgid "Two"
+msgstr "Два"
+
+#: options.php:58
+#@ i-craft
+msgid "Three"
+msgstr "Три"
+
+#: options.php:59
+#@ i-craft
+msgid "Four"
+msgstr "Четыре"
+
+#: options.php:60
+#@ i-craft
+msgid "Five"
+msgstr "Пять"
+
+#: options.php:65
+#@ i-craft
+msgid "French Toast"
+msgstr "Французский Тост"
+
+#: options.php:66
+#@ i-craft
+msgid "Pancake"
+msgstr "Блин"
+
+#: options.php:67
+#@ i-craft
+msgid "Omelette"
+msgstr "Омлет"
+
+#: options.php:68
+#@ i-craft
+msgid "Crepe"
+msgstr "Креп"
+
+#: options.php:69
+#@ i-craft
+msgid "Waffle"
+msgstr "Вафля"
+
+#: options.php:131
+#@ i-craft
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: options.php:135
+#@ i-craft
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: options.php:136
+#@ i-craft
+msgid "Phone number that appears on top bar."
+msgstr "Телефон , который появляется на верхней панели."
+
+#: options.php:144
+#@ i-craft
+msgid "Email Address"
+msgstr "Адрес электронной почты"
+
+#: options.php:145
+#@ i-craft
+msgid "Email Id that appears on top bar."
+msgstr "Адрес электронной почты, который появляется на верхней панели."
+
+#: options.php:152
+#@ i-craft
+msgid "Site header logo"
+msgstr "Логотип сайта"
+
+#: options.php:153
+#@ i-craft
+msgid "Width 280px, height 72px max. Upload logo for header"
+msgstr "Ширина  280пикс, высота 72пикс максимальный размер для отображения логотипа в заголовке"
+
+#: options.php:158
+#@ i-craft
+msgid "Site title/slogan (optional)"
+msgstr "Название сайта / лозунг (по желанию )"
+
+#: options.php:159
+#@ i-craft
+msgid "if you are using a logo and want your site title or slogan to appear on the header banner"
+msgstr "Если вы используете логотип и хотите, чтобы ваш заголовок сайта или лозунг , чтобы появиться на баннере заголовка"
+
+#: options.php:165
+#@ i-craft
+msgid "Layout Options"
+msgstr "Настройки макета"
+
+#: options.php:170
+#@ i-craft
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: options.php:171
+#@ i-craft
+msgid "Choose your theme color"
+msgstr "Выберите цветовую тему"
+
+#: options.php:178
+#@ i-craft
+msgid "Blog Posts Layout"
+msgstr "Макет в блоге"
+
+#: options.php:179
+#@ i-craft
+msgid "Choose blog posts layout (one column/two column)"
+msgstr "Выберите макет блога ( один столбец / две колонки )"
+
+#: options.php:189
+#@ i-craft
+msgid "Show Full Content"
+msgstr "Показать полное содержание"
+
+#: options.php:190
+#@ i-craft
+msgid "Show full content on blog pages"
+msgstr "Показать полный контент на страницах блога"
+
+#: options.php:196
+#@ i-craft
+msgid "Wide layout"
+msgstr "Широкий макет"
+
+#: options.php:197
+#@ i-craft
+msgid "Check to have wide layout"
+msgstr "Отметьте , чтобы иметь широкий макет"
+
+#: options.php:203
+#@ i-craft
+msgid "Main Sidebar on left (default sidebar appears on right)"
+msgstr "Главная боковая панель слева (по умолчанию боковая панель появляется справа)"
+
+#: options.php:204
+#@ i-craft
+msgid "move the main sidebar position to left"
+msgstr "переместить основные позиции боковой панели слева"
+
+#: options.php:211
+#@ i-craft
+msgid "Body Background"
+msgstr "Фон страницы"
+
+#: options.php:212
+#@ i-craft
+msgid "Change the background image/color."
+msgstr "Изменить фоновое изображение / цвет ."
+
+#: options.php:219
+#@ i-craft
+msgid "Additional style"
+msgstr "Дополнительные стили"
+
+#: options.php:220
+#@ i-craft
+msgid "add extra style(CSS) codes here"
+msgstr "Добавить дополнительные (CSS) стили сюда"
+
+#: options.php:228
+#@ i-craft
+msgid "Social Links "
+msgstr "Социальные ссылки"
+
+#: options.php:232
+#@ i-craft
+msgid "Facebook"
+msgstr ""
+
+#: options.php:239
+#@ i-craft
+msgid "Twitter"
+msgstr ""
+
+#: options.php:246
+#@ i-craft
+msgid "Pinterest"
+msgstr ""
+
+#: options.php:253
+#@ i-craft
+msgid "Flickr"
+msgstr ""
+
+#: options.php:260
+#@ i-craft
+msgid "RSS"
+msgstr ""
+
+#: options.php:267
+#@ i-craft
+msgid "Instagram"
+msgstr ""
+
+#: options.php:274
+#@ i-craft
+msgid "Google plus"
+msgstr ""
+
+#: options.php:283
+#@ i-craft
+msgid "Slider"
+msgstr "Слайд-шоу"
+
+#: options.php:287
+#@ i-craft
+msgid "Slide Duration"
+msgstr "Длительность слайда"
+
+#: options.php:288
+#@ i-craft
+msgid "slide visibility in milisecond "
+msgstr "видимость слайд миллисекунды"
+
+#: options.php:295
+#@ i-craft
+msgid "Slide1 Title"
+msgstr "Название Слайда 1"
+
+#: options.php:302
+#@ i-craft
+msgid "Slide1 Description"
+msgstr "Описание Слайда 1"
+
+#: options.php:309
+#@ i-craft
+msgid "Slide1 Link text"
+msgstr "Текст ссылки Слайда 1"
+
+#: options.php:316
+#@ i-craft
+msgid "Slide1 Link URL"
+msgstr "Ссылка Слайда 1"
+
+#: options.php:323
+#@ i-craft
+msgid "Slide1 Image"
+msgstr "Изображение Слайда 1"
+
+#: options.php:324
+#: options.php:360
+#: options.php:397
+#: options.php:434
+#@ i-craft
+msgid "Ideal image size width: 1200px and height: 440px"
+msgstr "Подходящий размер изображения: ширина 1200пикс и высота 440пикс."
+
+#: options.php:331
+#@ i-craft
+msgid "Slide2 Title"
+msgstr "Название Слайда 2"
+
+#: options.php:338
+#@ i-craft
+msgid "Slide2 Description"
+msgstr "Описание Слайда 2"
+
+#: options.php:345
+#@ i-craft
+msgid "Slide2 Link text"
+msgstr "Текст ссылки Слайда 2"
+
+#: options.php:352
+#@ i-craft
+msgid "Slide2 Link URL"
+msgstr "Ссылка Слайда 2"
+
+#: options.php:359
+#@ i-craft
+msgid "Slide2 Image"
+msgstr "Изображение Слайда 2"
+
+#: options.php:368
+#@ i-craft
+msgid "Slide3 Title"
+msgstr "Название Слайда 3"
+
+#: options.php:375
+#@ i-craft
+msgid "Slide3 Description"
+msgstr "Описание Слайда 3"
+
+#: options.php:382
+#@ i-craft
+msgid "Slide3 Link text"
+msgstr "Текст ссылки Слайда 3"
+
+#: options.php:389
+#@ i-craft
+msgid "Slide3 Link URL"
+msgstr "Ссылка Слайда 3"
+
+#: options.php:396
+#@ i-craft
+msgid "Slide3 Image"
+msgstr "Изображение Слайда 3"
+
+#: options.php:405
+#@ i-craft
+msgid "Slide4 Title"
+msgstr "Название Слайда 4"
+
+#: options.php:412
+#@ i-craft
+msgid "Slide4 Description"
+msgstr "Описание Слайда 4"
+
+#: options.php:419
+#@ i-craft
+msgid "Slide4 Link text"
+msgstr "Текст ссылки Слайда 4"
+
+#: options.php:426
+#@ i-craft
+msgid "Slide4 Link URL"
+msgstr "Ссылка Слайда 4"
+
+#: options.php:433
+#@ i-craft
+msgid "Slide4 Image"
+msgstr "Изображение Слайда 4"
+
+#: options.php:442
+#@ i-craft
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: options.php:446
+#@ i-craft
+msgid "Hide i-craft Slider"
+msgstr "Скрыть слайд шоу по умолчанию"
+
+#: options.php:447
+#@ i-craft
+msgid "Hide default i-craft slider"
+msgstr "Скрыть слайд шоу по умолчанию"
+
+#: options.php:454
+#@ i-craft
+msgid "Other Slider Shortcode"
+msgstr "Другие сокращения для слайд-шоу"
+
+#: options.php:463
+#@ i-craft
+msgid "WooCommerce"
+msgstr "Магазин"
+
+#: options.php:468
+#@ i-craft
+msgid "Hide Topnav Login"
+msgstr "Скрыть шапку Логин"
+
+#: options.php:469
+#@ i-craft
+msgid "Hide login menu item from top nav"
+msgstr "Скрыть пункт меню Войти сверху"
+
+#: options.php:475
+#@ i-craft
+msgid "Hide Topnav Cart"
+msgstr "Скрыть меню Корзина"
+
+#: options.php:476
+#@ i-craft
+msgid "Hide cart from top nav"
+msgstr "Скрыть корзину сверху"
+
+#: searchform.php:5
+#: searchform.php:6
+#@ i-craft
+msgid "Search for:"
+msgstr "Искать:"
+
+#: searchform.php:6
+#@ i-craft
+msgid "Search..."
+msgstr "Поиск..."
+
+#: searchform.php:9
+#@ i-craft
+msgid "Search"
+msgstr "Поиск"
+
+#: tag.php:20
+#, php-format
+#@ i-craft
+msgid "Tag Archives: %s"
+msgstr "Архивные метки: %s"
+
+#: taxonomy-post_format.php:22
+#, php-format
+#@ i-craft
+msgid "%s Archives"
+msgstr "%s Архивы"
+
+#: woocommerce/loop/result-count.php:28
+#@ woocommerce
+msgid "Showing the single result"
+msgstr "Показан единственный результат"
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr "Показаны все %d результаты"
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr "Показаны %1$d&ndash;%2$d of %3$d результаты"
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale!"
+msgstr "Продажа!"
+
+#: woocommerce/single-product/meta.php:23
+#@ woocommerce
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: woocommerce/single-product/meta.php:23
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Категория:"
+msgstr[1] "Категории:"
+msgstr[2] "Категории"
+
+#: woocommerce/single-product/meta.php:29
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Метка:"
+msgstr[1] "Метки:"
+msgstr[2] "Метки:"
+
+#: woocommerce/single-product/product-attributes.php:28
+#@ woocommerce
+msgid "Weight"
+msgstr "Вес"
+
+#: woocommerce/single-product/product-attributes.php:35
+#@ woocommerce
+msgid "Dimensions"
+msgstr "Габариты"
+
+#: woocommerce/single-product/product-image.php:38
+#@ woocommerce
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:40
+#@ woocommerce
+msgid "Related Products"
+msgstr "Похожие товары"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr "Оценка %d из 5 "
+
+#: woocommerce/single-product/review.php:27
+#@ woocommerce
+msgid "out of 5"
+msgstr "из 5"
+
+#: woocommerce/single-product/review.php:34
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr "Ваш комментарий ожидает подтверждения"
+
+#: woocommerce/single-product/review.php:43
+#@ woocommerce
+msgid "verified owner"
+msgstr "подтвержденный владелец"
+
+#: woocommerce/single-product/up-sells.php:39
+#@ woocommerce
+msgid "You may also like&hellip;"
+msgstr "Вам также может понравиться&hellip;"
+

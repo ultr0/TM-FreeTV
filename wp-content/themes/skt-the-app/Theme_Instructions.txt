@@ -1,0 +1,45 @@
+
+/* =========== The App ========== */
+
+The App WordPress Theme, Copyright (C) 2015 SKTThemes
+The App WordPress Theme is licensed under the GPL.
+
+
+/* =========== Theme Installation ======= */
+
+1. Upload the 'skt-theapp' folder to '/wp-content/themes' directory.
+2. Go to Appearance >> Themes >> activate the theme.
+3. See Appearance >> Theme Options to change the theme options.
+4. Homepage will automatically display after installation but if you want to show blog post in front page then Go to Pages >> Select blog template for any page. After this select that page as a static front page in Settings >> Reading >> Front page display >> static page. 
+
+
+/* ========== Theme Features and Documentation ======= */
+
+
+== Background Setting ==
+You can change background color or image from Appearance >> Background >> change image or color.
+
+
+ == Theme Options ==
+
+**Basic Settings**
+
+1. Logo: Select logo for your theme.
+1. Favicon: Select favicon for your theme.
+
+
+**Sections Settings**
+
+1. Section: You can manage your section also you can add more.
+
+
+**Homepage Slider**
+
+1. Slider Image: Add slider image. 
+2. Slider Title: Add slider title.
+3. Slider Description: Add slider description.
+
+
+**Social Settings**
+
+1. Add social links. leave blank if you dont want social icons.
